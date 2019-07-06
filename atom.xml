@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>sy_blog</title>
   
-  
+  <subtitle>只要智商不滑坡，办法总比困难多。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://shanxishiyong.github.io/"/>
   <updated>2019-07-06T11:35:03.926Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://shanxishiyong.github.io/</id>
   
   <author>
     <name>yong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>大数据仓库-数据采集策略</title>
-    <link href="http://yoursite.com/2019/07/06/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93-%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%AD%96%E7%95%A5/"/>
-    <id>http://yoursite.com/2019/07/06/大数据仓库-数据采集策略/</id>
+    <link href="https://shanxishiyong.github.io/2019/07/06/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93-%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%AD%96%E7%95%A5/"/>
+    <id>https://shanxishiyong.github.io/2019/07/06/大数据仓库-数据采集策略/</id>
     <published>2019-07-06T11:00:51.386Z</published>
     <updated>2019-07-06T11:35:03.926Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="大数据" scheme="http://yoursite.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+      <category term="大数据" scheme="https://shanxishiyong.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
     
     
-      <category term="数据仓库" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/"/>
+      <category term="数据仓库" scheme="https://shanxishiyong.github.io/tags/%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93/"/>
     
-      <category term="ETL" scheme="http://yoursite.com/tags/ETL/"/>
+      <category term="ETL" scheme="https://shanxishiyong.github.io/tags/ETL/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/30/hello-world/"/>
-    <id>http://yoursite.com/2019/06/30/hello-world/</id>
+    <link href="https://shanxishiyong.github.io/2019/06/30/hello-world/"/>
+    <id>https://shanxishiyong.github.io/2019/06/30/hello-world/</id>
     <published>2019-06-30T07:28:38.469Z</published>
     <updated>2019-06-30T07:28:38.469Z</updated>
     
