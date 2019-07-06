@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>sy_blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/archives/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2019-07-06T11:35:03.926Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yong</name>
     
   </author>
   
