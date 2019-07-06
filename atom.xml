@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-30T07:28:38.469Z</updated>
+  <updated>2019-07-06T11:07:40.701Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大数据仓库-数据采集策略</title>
+    <link href="http://yoursite.com/2019/07/06/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93-%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%AD%96%E7%95%A5/"/>
+    <id>http://yoursite.com/2019/07/06/大数据仓库-数据采集策略/</id>
+    <published>2019-07-06T11:00:51.000Z</published>
+    <updated>2019-07-06T11:07:40.701Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="title-大数据仓库-数据采集策略"><a href="#title-大数据仓库-数据采集策略" class="headerlink" title="title: 大数据仓库-数据采集策略"></a>title: 大数据仓库-数据采集策略</h2><p>大数据采集这篇文章还在写作中，请等待。</p><h2 id="分类介绍"><a href="#分类介绍" class="headerlink" title="分类介绍"></a>分类介绍</h2><h3 id="以对象为主"><a href="#以对象为主" class="headerlink" title="以对象为主"></a>以对象为主</h3><p>拉链表合适</p><h3 id="以事件为主"><a href="#以事件为主" class="headerlink" title="以事件为主"></a>以事件为主</h3><p>表切片</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;h2 id=&quot;title-大数据仓库-数据采集策略&quot;&gt;&lt;a href=&quot;#title-大数据仓库-数据采集策略&quot; class=&quot;headerlink&quot; title=&quot;title: 大数据仓库-数据采集策略&quot;&gt;&lt;/a&gt;title: 大数据仓库-数据采集策略&lt;/h2&gt;&lt;p
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
